@@ -110,3 +110,12 @@ merge these two halves using merge function.
     return sorted_merged_list
 
 Return the sorted list up to the caller
+
+## Complexity --
+- Best Case - O(n log n)
+
+- Average Case - O(n log n)
+
+- Worst Case - O(n log n)
+
+![alt text](image.png)
