@@ -72,8 +72,8 @@ return the sorted element
 
 ## Complexity --
 - Best Case -- O(n) if the list is already sorted
-- Average case -- O(n^2^)
-- Worst case -- O(n^2^)
+- Average case -- O(n<sup>2</sup>)
+- Worst case -- O(n<sup>2</sup>)
 - Stable -- Yes
 - Sort in place -- Yes
 
