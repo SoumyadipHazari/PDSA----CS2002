@@ -72,8 +72,8 @@ at the end return the sorted array
 ## Complexity --
 
 - Best case -- **O(n^2^)** (if the list is already sorted)
-- Average case -- **O(n^2^)** 
-- Worst case -- **O(n^2^)** 
+- Average case -- **O(n<sup>2</sup>)** 
+- Worst case -- **O(n<sup>2</sup>)** 
 - Stable -- No
 - Sort in place --yes
 
