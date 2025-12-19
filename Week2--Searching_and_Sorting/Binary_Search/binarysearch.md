@@ -108,7 +108,7 @@ If middle is greater, search left half. Recurse with new high = mid - 1.
 
 
 ## Complexity --
-- Best case -- **O(n)**
+- Best case -- **O(1)**
 - worst case -- **O(log n)**
 - Average case -- **O(log n)**
   
